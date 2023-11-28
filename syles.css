@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    body {
+      font-size: 14px;
+    }
+  }
+
+
+
+  body{
+    background-image: url("https://yandex.com/images/search?cbir_id=1767186%2F89A-fa4pchjoS6pueaxLGg9213&cbir_page=similar&crop=0.3575%3B0.1529%3B0.9937%3B0.3833&img_url=https%3A%2F%2Fnfg-sofun.s3.amazonaws.com%2Fuploads%2Fredactor_rails%2Fpicture%2Fdata%2F29490%2FHope_Cloth_Logo.jpeg&lr=10615&pos=3&rpt=imageview&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F1767186%2F89A-fa4pchjoS6pueaxLGg9213%2Forig");
+  }
